@@ -1,0 +1,67 @@
+                                                                                                                                                                                                                                        10:07 AM 9/24/2022
+                                                                                                                                                                                                                                              SATURDAY
+                                                                                  SDLC (Software development life cycle).
+
+
+                             
+       -One of the fundamental procedures of development software in a step by step manner is by following the SDLC.
+       
+       -full name - Software Development Life Cycle.S
+       
+       
+       The various phases of SDLC are explained below :
+       
+       Phase-1      :         Requirement Collection or Planning Phase
+                                    
+                                     The prime focus of this phase is to gather the essential requirements from the customer.
+                                     This information gets collected by the buisness analyst from their target customer and plans the BRS.
+                                     BRS - Buisness requirement Specification.
+
+
+       
+       Phase-2      :         Defining or Feasibility Study Phase 
+
+                                     There are another set of employees like Human resource, finance analyst, architect, a buisness analyst as well as
+                                     project manager will sit jointly discuss as well as analyze how to proceed and whether it is feasible and posiible 
+                                     in the allotted budget.
+                                     Such decision are taken depending on the cost, resource, time, etc.
+                                     SRS  -  Software requirement Specification.
+
+
+     Phase-3       :         Designing phase
+ 
+                                    This phase is when the design specification is organized from the prerequisite document when the project is 
+                                    approved to go further.
+                                    requirements of your system as well as assist in crafting a significant architecture of your system.
+
+
+    Phase-4       :          Building or Coding Phase
+
+                                   As you are preparing with the design document, this phase deals with the developers to start writing
+                                   the code or prepare for the engineering so that a prototype of the product can be created using some 
+                                   specific tools and techniques. this is longest phase of SDLC.
+
+      
+  Phase-5       :          Testing phase
+
+                                 It needs test engineers to check for bugs and run time errors, and check in this phase whether
+                                 the functionality of the product is working as per the requirement or not.
+                                 this is an iteractive process that continues until your application is free from bugs and defects and works
+                                 stably.
+
+
+
+ Phase-6      :          Deployment Phase
+ 
+                                Once your prototype or product is developed, tested, and completely in working from as per the requirement 
+                                and then it is installed or deployed in the customer's workplace or system for their use.
+
+ Phase-7     :          Maintenence Phase
+
+                               This phase does not come under the count of SDLC. 
+                               The developer fixes the issue, and software testers test the product and hand it over the back to the customer. 
+        
+                                
+                                   
+              
+       
